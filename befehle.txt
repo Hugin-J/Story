@@ -4,7 +4,7 @@ ls -a (list administrator)
 git init
 
 git add . (all files)
-git commit -m "notes"
+git commit -m "notes" filename
 git log
 git diff filename
 git checkout filename
@@ -13,3 +13,5 @@ git status
 
 git remote add origin https://github.com/....
 git push -u origin master
+
+git lfs (help)
