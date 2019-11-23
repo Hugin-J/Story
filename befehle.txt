@@ -1,0 +1,11 @@
+
+ls -a (list administrator)
+
+git init
+
+git add . (all files)
+git commit -m "notes"
+git log
+git diff filename
+git checkout filename
+git status
