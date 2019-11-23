@@ -9,3 +9,7 @@ git log
 git diff filename
 git checkout filename
 git status
+
+
+git remote add origin https://github.com/....
+git push -u origin master
